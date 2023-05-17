@@ -1,0 +1,6 @@
+2023-05-16 19:01:31,381 [main] INFO e-banking - User name is provided
+2023-05-16 19:01:31,720 [main] INFO e-banking - Passsword is provided
+2023-05-17 18:08:20,209 [main] INFO e-banking - URL is opened
+2023-05-17 18:08:22,447 [main] INFO e-banking - Entered username
+2023-05-17 18:08:25,993 [main] INFO e-banking - Entered password
+2023-05-17 18:08:26,010 [main] INFO e-banking - Login test passed
